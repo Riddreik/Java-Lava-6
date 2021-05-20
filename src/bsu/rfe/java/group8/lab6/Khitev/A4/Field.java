@@ -1,4 +1,4 @@
-package bsu.rfe.java.group8.lab6.Khitev.A12;
+package bsu.rfe.java.group8.lab6.Khitev.A4;
 
 import java.awt.Color;
 import java.awt.Graphics;
@@ -80,7 +80,7 @@ public class Field extends JPanel {
             wait();
         }
         // добавляем условие для зеленого спектра
-        if (pausedGreen && (2*(ball.getRed()+ball.getBlue())) < ball.getGreen()){
+        if (pausedGreen && (ball.getRed()+ball.getBlue()) < ball.getGreen()){
             wait();
         }
     }

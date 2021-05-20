@@ -1,4 +1,4 @@
-package bsu.rfe.java.group8.lab6.Khitev.A12;
+package bsu.rfe.java.group8.lab6.Khitev.A4;
 
 import java.awt.BorderLayout;
 import java.awt.Toolkit;
